@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1419408004 source:a:\academic\4th year\1st semester\system programming\sic\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<math.h>
+	<cstdlib>
+	<stdio.h>
+	<sstream>
+	<stdlib.h>
+	<iomanip>
+	<map>
+
